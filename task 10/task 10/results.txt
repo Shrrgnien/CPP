@@ -1,0 +1,69 @@
+new muliplication 
+Time: 38.1745
+
+block_width=6; average time for 5 runs = 7.63489
+
+Time: 33.6395
+
+block_width=10; average time for 5 runs = 6.7279
+
+Time: 31.711
+
+block_width=15; average time for 5 runs = 6.3422
+
+Time: 31.0041
+
+block_width=20; average time for 5 runs = 6.20083
+
+Time: 30.4958
+
+block_width=24; average time for 5 runs = 6.09915
+
+Time: 29.9443
+
+block_width=30; average time for 5 runs = 5.98886
+
+Time: 29.9011
+
+block_width=36; average time for 5 runs = 5.98022
+
+Time: 29.836
+
+block_width=40; average time for 5 runs = 5.96721
+
+Time: 30.31
+
+block_width=60; average time for 5 runs = 6.06199
+
+Time: 30.9157
+
+block_width=72; average time for 5 runs = 6.18313
+
+Time: 31.9023
+
+block_width=80; average time for 5 runs = 6.38046
+
+Time: 38.1426
+
+block_width=96; average time for 5 runs = 7.62851
+
+Time: 34.7976
+
+block_width=120; average time for 5 runs = 6.95951
+
+Time: 38.6671
+
+block_width=144; average time for 5 runs = 7.73342
+
+Time: 40.3038
+
+block_width=160; average time for 5 runs = 8.06077
+
+Time: 43.6592
+
+block_width=180; average time for 5 runs = 8.73185
+
+Time: 53.7709
+
+block_width=240; average time for 5 runs = 10.7542
+
